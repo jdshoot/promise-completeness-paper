@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Promise Completeness, Not Model Capability: The Structural Ceiling of Full Automation and the Cultivation of Human Evaluative Judgment"
+authors:
+  - family-names: Dai
+    given-names: Lei
+doi: 10.5281/zenodo.24018074
+url: "https://github.com/jdshoot/promise-completeness-paper"
+date-released: 2026-11-07
+
+preferred-citation:
+  type: article
+  title: "Promise Completeness, Not Model Capability: The Structural Ceiling of Full Automation and the Cultivation of Human Evaluative Judgment"
+  authors:
+    - family-names: Dai
+      given-names: Lei
+  year: 2026
+  doi: 10.5281/zenodo.24018074
