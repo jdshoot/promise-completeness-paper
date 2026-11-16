@@ -4,7 +4,7 @@ title: "Promise Completeness, Not Model Capability: The Structural Ceiling of Fu
 authors:
   - family-names: Dai
     given-names: Lei
-doi: 10.5281/zenodo.24018074
+doi: 10.5281/zenodo.24016093
 url: "https://github.com/jdshoot/promise-completeness-paper"
 date-released: 2026-11-07
 
@@ -15,4 +15,4 @@ preferred-citation:
     - family-names: Dai
       given-names: Lei
   year: 2026
-  doi: 10.5281/zenodo.24018074
+  doi: 10.5281/zenodo.24016093
