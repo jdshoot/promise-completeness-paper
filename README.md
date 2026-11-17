@@ -2,7 +2,7 @@
 
 ## Cite as
 
-[![DOI](https://zenodo.org/badge/1448497360.svg)](https://doi.org/10.5281/zenodo.24016093)
+[![DOI](https://zenodo.org/badge/24016093.svg)](https://doi.org/10.5281/zenodo.24016093)
 
 Dai, L. (2026). *Promise Completeness, Not Model Capability: The Structural Ceiling of Full Automation and the Cultivation of Human Evaluative Judgment*. https://doi.org/10.5281/zenodo.24016093
 
